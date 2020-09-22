@@ -1,4 +1,4 @@
-package com.collection.application;
+package com.collections.application;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -7,8 +7,8 @@ import java.util.Iterator;
 
 import javax.management.OperationsException;
 
-import com.collection.daos.InvoiceDaoImpl;
 import com.collections.Invoice;
+import com.collections.daos.InvoiceDaoImpl;
 import com.collections.ifaces.InvoiceDAO;
 
 public class Application{

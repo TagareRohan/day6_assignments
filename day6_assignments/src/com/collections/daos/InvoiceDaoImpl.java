@@ -1,4 +1,4 @@
-package com.collection.daos;
+package com.collections.daos;
 
 import java.util.Collection;
 import java.util.*;
